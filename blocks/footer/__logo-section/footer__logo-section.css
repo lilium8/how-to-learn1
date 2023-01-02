@@ -1,0 +1,7 @@
+.footer__logo-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 350px;
+    flex-basis: 700px;
+}
